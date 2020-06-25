@@ -1,10 +1,14 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: ITB-company
+  job_title: WEB-разработчик
+  dates: Декабрь 2016 — Июль 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    * Верстка по PSD макету
+    * "Натягивание" html шаблона на CMS (WP, Joomla, ModX)
+    * Написание модулей, плагинов для CMS
+    * Чистка сайтов от вирусов с их последующим восстановлением
+    * Работа с фреймворками
+    * Доработка и исправление существующего функционала

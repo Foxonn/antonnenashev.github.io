@@ -1,9 +1,16 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: Омский авиационный колледж имени Н.Е. Жуковского
+  dates: Сентябрь 2010 — Июнь 2014
+  qualification: Программирование, Программирование в компьютерных системах
+#  quote: >
+#    Short institution or course description (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    Description of qualification
+
+- layout: left
+  name: Омский государственный технический университет
+  dates: Сентябрь 2016 — Сентябрь 2016
+  qualification: инженер-радиотехник
+  description:
+    Прекратил обучение по собственному желанию

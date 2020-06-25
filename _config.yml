@@ -3,35 +3,28 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Антон Ненашев
+title: Python-developer
+email: anton.nenashev2015@yandex.ru
+email: psihonort@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+github_username:  foxonn
+stackoverflow_username: "8963691"
+telegram_username: "@psihonort"
+codewars_username: "https://www.codewars.com/users/Foxonn"
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: telegram
+  icon: fa-telegram
+
+additional_links:
+- title: codewars
+  url: https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,7 +37,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/self.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -66,9 +59,36 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  В первые с ЯП познакомился в 2010 года когда поступил в техникум, нас учили C#, С++ и немного HTML. В период обучение меня совсем
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  не интересовали ЯП и не было желания развиваться в эту область.
+  Перейду сразу к дипломной работе. Дипломную работу я писал на C#,
+  защитил на 4, для меня это было очень круто.
+
+  После завершения учебы в техникуме 2014, подал заявку на поступление университет на факультет радиотехники.
+  Не знаю для чего я туда поступил, желание как такового не было, да и цели тоже, наверно из-за желания родителей,
+  чтобы у меня было высшее образование ну и попасть на военную кафедру, да бы в армию не попасть (желание туда попасть у меня не было).
+  Мое обучение в университете продлилось недолго, где-то месяц вроде, и началось самое ужасное, так как мне на тот момент уже было 20 лет,
+  техникум давал отсрочку до 20 лет, и мне начали приходить повестки от военкомата. В итоге университет ничего не может поделать, а только
+  предложил отправить меня в академический отпуск, что я и сделал. И я благополучно отчалил служить своей стране.
+
+  Вернувшись со службы 2015, я восстановился в университете и пошел учится снова. Проучился пару недель и отчислился, ибо желание учится очно у меня полностью угасло. Узнавал можно ли перевестись на заочку на другой факультет, но такой возможности не было.
+
+  2016 просидев дома еще некоторое время после ухода из универа, я начал искать работу. Один знакомы предложил должность сео-специалиста,
+  я недолго думаю согласился, прошел все тестовые задачи и приступил к работе. Пока работал в сео отделе иногда попадались сайты где нужно было поправить верстку, но для этого приходилось создавать кейс разработчику, что мне не очень хотелось делать, ибо проблема незначительная была, а ждать очереди долго, и я своими силами начал исправлял мелкие недочеты на сайтах. Мне стало нравиться работать с HTML время от времени помимо сео задач. Приходя домой читал литературу по HTML по верстке, подкрепляя теорию практикой в HTML Academy. Уже где-то после двух месяцев стажировки как сео-специалист, мне становится понятно что мне нравиться более разработка чем сео.
+  И вот подходит мой испытательный срок 3-месяца в роли сео-специалиста. На подведении итогов говорю, что сео, не то чем бы я хотел заниматься, и после обсуждения, знакомый предлагает мне пойти к нему в отдел разработки, на что я с радостью согласился. По началу задачи были по фронтенд части, далее по мере изучение PHP стали приходить задачи еще и по бэкенду.
+
+  Середина 2017 года, мне стало интересно попробовать Python, чего это он такой популярный. Чем больше я его изучал, тем больше он мне нравился, за свою строгость к организации кода, за свои некоторые изящные решения, генераторы списков, извлечение данных из списка, словаря через * или **, декораторы, ламбда-выражения и много чего еще.
+
+  В итоге, летом 2018 я уволился и начал активнее изучать Python.
+  ***
+  Книги которые прочитал:
+
+  * Django 2 by Example (rus) | Antonio Mele
+  * Python Tricks: A Buffet of Awesome Python Features (rus) | Dan Bader
+  * Grokking Algorithms: An illustrated guide for programmers and other curious people (rus) | Aditya Bhargava
+  ***
+  Есть желание попасть в компанию, где руководство заинтересованно и способствует развитию своих сотрудников.  Работать в окружении разработчиков, ибо только в коллективе можно быстрее и продуктивнее развиваться.
 
 # Footer
 footer_show_references: true
