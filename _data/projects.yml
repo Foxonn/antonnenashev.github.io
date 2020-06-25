@@ -3,7 +3,7 @@
   name: ytgrabber
   github: https://github.com/Foxonn/ytgrabber/tree/develop
   quote: >
-    Python • Selenium webdriver • Regex • Git • pytube
+    Стек технологий: Python • Selenium webdriver • Regex • Git • pytube
   description: | # this will include new lines to allow paragraphs
     Приложение разрабатывал для себя, под свои нужды.
 
@@ -20,7 +20,7 @@
   name: readitblog
   github: https://github.com/Foxonn/readitblog/
   quote: >
-    Rabbitmq • Celery • Docker • Nginx • Uwsgi • PostgreSQL • Django • Python • Git
+    Стек технологий: Rabbitmq • Celery • Docker • Nginx • Uwsgi • PostgreSQL • Django • Python • Git
   description: | # this will include new lines to allow paragraphs
     Первый проект на Django 3.0, для тренировки.
 

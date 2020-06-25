@@ -2,6 +2,11 @@
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
+site:
+  education_title: 'Образование'
+  projects_title: 'Проекты'
+  more_title: 'Немного обо мне'
+
 # Personal info
 name: Антон Ненашев
 title: Python-developer
@@ -45,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Имею опыт работы с:
   <mark>Python</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>JS</mark>,
-  <mark>DOCKER</mark>, <mark>SeleniumWB</mark>
+  <mark>Docker</mark>, <mark>SeleniumWB</mark>, <mark>RegEX</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -81,11 +86,13 @@ more_content: | # this will include new lines to allow paragraphs
 
   В итоге, летом 2018 я уволился и начал активнее изучать Python.
 
+
   Книги которые прочитал:
 
   * Django 2 by Example (rus), Antonio Mele
   * Python Tricks: A Buffet of Awesome Python Features (rus), Dan Bader
   * Grokking Algorithms: An illustrated guide for programmers... (rus), Aditya Bhargava
+
 
   Есть желание попасть в компанию, где руководство заинтересованно и способствует развитию своих сотрудников.  Работать в окружении разработчиков, ибо только в коллективе можно быстрее и продуктивнее развиваться.
 
