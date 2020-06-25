@@ -59,6 +59,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Немного обо мне #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  Меня зовут Антон, мне 26 лет, живу в России, в городе Омск.
+
   В первые с ЯП познакомился в 2010 года когда поступил в техникум, нас учили C#, С++ и немного HTML.
   В период обучение меня совсем  не интересовали ЯП и не было желания развиваться в эту область.
   Перейду сразу к дипломной работе. Дипломную работу я писал на C#,
