@@ -2,11 +2,6 @@
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-site:
-  education_title: 'Образование'
-  projects_title: 'Проекты'
-  more_title: 'Немного обо мне'
-
 # Personal info
 name: Антон Ненашев
 title: Python-developer
