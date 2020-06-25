@@ -6,7 +6,6 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Антон Ненашев
 title: Python-developer
 email: anton.nenashev2015@yandex.ru
-email: psihonort@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,7 +32,7 @@ additional_links:
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
- gtm: "GTM-MZJ9XTX"
+# gtm: "GTM-MZJ9XTX"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
