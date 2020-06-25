@@ -3,8 +3,8 @@
   company: ITB-company
   job_title: WEB-разработчик
   dates: Декабрь 2016 — Июль 2019
-  quote: >
-   Short description of the company (optional)
+#  quote: >
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     * Верстка по PSD макету
     * "Натягивание" html шаблона на CMS (WP, Joomla, ModX)

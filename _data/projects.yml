@@ -1,9 +1,15 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Цель проекта, разработка приложение которое скачивает аудио-дорожки из видео материала с YT на ПК и конвертирует их в mp3.
+  github: https://github.com/Foxonn/ytgrabber/tree/develop
   quote: >
-    Short overview of the project (optional)
+    Python • Selenium webdriver • Regex • Git
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Приложение разрабатывал для себя, под свои нужды.
+
+    Приложение состоит из трех основных модулей:
+    * grabber отвечает за парсинг данных, принимает ссылку на плейлист или на вкладку видео.
+    * downloader отвечает за загрузку  файлов на ПК.
+    * converter отвечает за конвертацию загруженных файлов в mp3 формат
+
+    Для удобства отладки реализованы собственные классы исключений.
