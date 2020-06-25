@@ -1,11 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Цель проекта, разработка приложение которое скачивает аудио-дорожки из видео материала с YT на ПК и конвертирует их в mp3.
+  name: ytgrabber
   github: https://github.com/Foxonn/ytgrabber/tree/develop
   quote: >
-    Python • Selenium webdriver • Regex • Git
+    Python • Selenium webdriver • Regex • Git • pytube
   description: | # this will include new lines to allow paragraphs
     Приложение разрабатывал для себя, под свои нужды.
+
+    Цель проекта, разработка приложение которое скачивает аудио-дорожки из видео материала с YT на ПК и конвертирует их в mp3.
 
     Приложение состоит из трех основных модулей:
     * grabber отвечает за парсинг данных, принимает ссылку на плейлист или на вкладку видео.

@@ -15,11 +15,17 @@ darkmode: false
 github_username:  foxonn
 stackoverflow_username: "8963691"
 telegram_username: "@psihonort"
+codewars_username: "Foxonn"
 
 # Additional icon links
 additional_links:
 - title: telegram
   icon: fa-telegram
+  url: https://teleg.run/psihonort
+
+- title: codewars
+  icon: https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png
+  url: https://www.codewars.com/users/Foxonn
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -82,7 +88,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   * Django 2 by Example (rus) | Antonio Mele
   * Python Tricks: A Buffet of Awesome Python Features (rus) | Dan Bader
-  * Grokking Algorithms: An illustrated guide for programmers and other curious people (rus) | Aditya Bhargava
+  * Grokking Algorithms: An illustrated guide for programmers... (rus) | Aditya Bhargava
 
 
   Есть желание попасть в компанию, где руководство заинтересованно и способствует развитию своих сотрудников.  Работать в окружении разработчиков, ибо только в коллективе можно быстрее и продуктивнее развиваться.
