@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Имею опыт работы с:
   <mark>Python</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>JS</mark>,
-  <mark>Docker</mark>, <mark>SeleniumWB</mark>, <mark>RegEX</mark>
+  <mark>Docker</mark>, <mark>SeleniumWB</mark>, <mark>RegEX</mark>, <mark>Dango2</mark>, <mark>flake8</mark>, <mark>pytest</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
