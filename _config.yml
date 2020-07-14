@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Имею опыт работы с:
   <mark>Python</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>JS</mark>,
-  <mark>Docker</mark>, <mark>SeleniumWB</mark>, <mark>RegEX</mark>, <mark>Dango2</mark>, <mark>flake8</mark>, <mark>pytest</mark>
+  <mark>Docker</mark>, <mark>SeleniumWB</mark>, <mark>RegEX</mark>, <mark>Django2</mark>, <mark>flake8</mark>, <mark>pytest</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -86,9 +86,9 @@ more_content: | # this will include new lines to allow paragraphs
 
   Книги которые прочитал:
 
-  * Django 2 by Example (rus), Antonio Mele
-  * Python Tricks: A Buffet of Awesome Python Features (rus), Dan Bader
-  * Grokking Algorithms: An illustrated guide for programmers... (rus), Aditya Bhargava
+  * Django 2 в примерах | Меле Антонио
+  * Чистый Python. Тонкости программирования для профи | Бейдер Дэн
+  * Грокаем алгоритмы. | Бхаргава Адитья
 
 
   Есть желание попасть в компанию, где руководство заинтересованно и способствует развитию своих сотрудников.  Работать в окружении разработчиков, ибо только в коллективе можно быстрее и продуктивнее развиваться.
